@@ -19,7 +19,7 @@ export default {
       manifestUrl:
         'https://dash.akamaized.net/dash264/TestCases/1c/qualcomm/2/MultiRate.mpd',
       posterUrl:
-        'https://upload.wikimedia.org/wikipedia/commons/a/a7/Big_Buck_Bunny_thumbnail_vlc.png'
+        'https://www.img.in.th/images/137e80e688d609c04d6c2cf8054f5eae.png'
     };
   }
 };
